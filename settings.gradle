@@ -1,1 +1,1 @@
-include ':app', ':ddrouter-compiler', ':ddrouter-annotation'
+include ':app', ':ddrouter-annotation'
